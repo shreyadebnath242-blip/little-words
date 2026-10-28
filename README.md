@@ -5,6 +5,14 @@ A responsive dark academia random quote generator. It shows a random quote and i
 **Live site:** https://genuine-bunny-7c2b55.netlify.app
 **Project report (Google Doc):** <paste link>
 
+## Screenshots
+![Laptop view](screenshot1.png)
+![Laptop loading view](screenshot2.png)
+![Laptop no internet view](screenshot3.png)
+![Phone view](screenshot4.png)
+![Phone loading view](screenshot5.png)
+![Phone no internet view](screenshot6.png)
+
 ## Features
 - Shows a random quote and author when the page loads
 - "Another one" button fetches a new quote using the Fetch API
