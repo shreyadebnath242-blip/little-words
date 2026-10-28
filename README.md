@@ -3,15 +3,23 @@
 A responsive dark academia random quote generator. It shows a random quote and its author, and every click on "Another one" brings a new quote with a new background photo, a new card colour and a slightly different tilt.
 
 **Live site:** https://genuine-bunny-7c2b55.netlify.app
-**Project report (Google Doc):** <paste link>
+
+**Project report (Google Doc):** paste-your-doc-link-here
 
 ## Screenshots
-![Laptop view](screenshot1.png)
-![Laptop loading view](screenshot2.png)
-![Laptop no internet view](screenshot3.png)
-![Phone view](screenshot4.png)
-![Phone loading view](screenshot5.png)
-![Phone no internet view](screenshot6.png)
+
+![Laptop view](Screenshot1.png)
+
+![Laptop loading view](Screenshot2.png)
+
+![Laptop no internet view](Screenshot3.png)
+
+![Phone view](screenshot4.png.jpeg)
+
+![Phone loading view](screenshot5.png.jpeg)
+
+![Phone no internet view](screenshot6.png.jpeg)
+
 
 ## Features
 - Shows a random quote and author when the page loads
