@@ -1,10 +1,10 @@
 // background photos, they are in the images folder
 const images = [
-  "images/bg1.jpg",
-  "images/bg2.jpg",
-  "images/bg3.jpg",
-  "images/bg4.jpg",
-  "images/bg5.jpg"
+  "bg1.jpg",
+  "bg2.jpg",
+  "bg3.jpg",
+  "bg4.jpg",
+  "bg5.jpg"
 ];
 
 // api link (gives us a quote and author)
