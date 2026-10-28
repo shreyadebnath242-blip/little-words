@@ -25,7 +25,7 @@ A responsive dark academia random quote generator. It shows a random quote and i
 index.html   - the page
 style.css    - the dark academia styling and the phone layout
 script.js    - fetches the quotes and changes the photo, colour and tilt
-images/      - the 5 background photos
+bg1.jpg ... bg5.jpg - the 5 background photos
 ```
 
 ## How to run it locally
