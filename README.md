@@ -4,7 +4,7 @@ A responsive dark academia random quote generator. It shows a random quote and i
 
 **Live site:** https://genuine-bunny-7c2b55.netlify.app
 
-**Project report (Google Doc):** paste-your-doc-link-here
+**Project report (Google Doc):** https://docs.google.com/document/d/1jORRXeJ8FpfepXuSou2dl_uRWxSb3K2_x1c65tFo49k/edit?usp=sharing
 
 ## Screenshots
 
